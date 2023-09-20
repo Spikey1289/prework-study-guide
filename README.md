@@ -2,15 +2,14 @@
 # Prework Study Guide Webpage
 
 ## Description
-This Project was made to learn the basics of HTML, CSS, and Javascript, as well as to farmiliarize myself with the basics of Git commands in a CLI. In addition, this project contains some basic notes I took during the prework section of the class I am taking, which are free for the user to take advantage of.
-
-If you wish to see the JavaScript in action, use the browser's developer tools to open the console tab.
+This Project was made to learn the basics of HTML, CSS, and Javascript, as well as to farmiliarize myself with the basics of Git commands in a CLI. In addition, this project contains some basic notes I took during the prework section of the class I am taking.
 
 ## Installation
 N/A
 
 ## Usage
 
+To use this Prework Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
 
 ## Credits
 N/A
